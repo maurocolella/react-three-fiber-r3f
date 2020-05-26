@@ -18,9 +18,6 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "engines": {
-    "node": "11"
-  },
   "browserslist": [
     ">0.2%",
     "not dead",
